@@ -1,0 +1,3 @@
+{
+  "extends": "@zica-ui/eslint-config"
+}

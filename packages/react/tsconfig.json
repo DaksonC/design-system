@@ -1,0 +1,6 @@
+{
+  "extends": "@zica-ui/ts-config/react.json",
+  "include": [
+    "src"
+  ]
+}
