@@ -16,10 +16,31 @@ npm run build
 ```js
 npm run dev
 ```
-### Na subpasta components da pasta react
+## Próximos passos 
 
-packages/react/components
+packages/react/src/components
 - crie seu novo componente aqui (usando o Stitches)
 
-packages/docs/stories
-- crie a documentação do seu novo componente
+packages/docs/src/stories
+- crie a documentação do seu novo componente para ser visualizado no Storybook
+
+packages/tokens/src
+- crie um novo token
+
+packages/docs/pages/tokens
+- crie a documentação do seu novo token
+
+packages/docs/components
+- crie e configure a visualização dos tokens
+
+ packages/react/src/index.tsx
+ - exportar tudo do seu novo componente 
+
+```
+Glossário
+
+*[Token] = tema global dos componentes 
+
+exemplo: as fontes, as cores...
+```
+
