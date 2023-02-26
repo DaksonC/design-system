@@ -4,7 +4,10 @@ import { Box, MultiStep, MultiStepProps } from '@zica-ui/react'
 export default {
   title: 'Form/Multi Step',
   component: MultiStep,
-  args: {},
+  args: {
+    size: 4,
+    currentStep: 1,
+  },
   decorators: [
     (Story) => {
       return (
@@ -25,4 +28,10 @@ export default {
 
 export const Primary: StoryObj<MultiStepProps> = {
   args: {},
+}
+
+export const Full: StoryObj<MultiStepProps> = {
+  args: {
+    currentStep: 4,
+  },
 }

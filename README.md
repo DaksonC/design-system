@@ -41,6 +41,6 @@ Glossário
 
 *[Token] = tema global dos componentes 
 
-exemplo: as fontes, as cores...
+exemplo: as fontes, o tamanho das fontes, as cores...
 ```
 
