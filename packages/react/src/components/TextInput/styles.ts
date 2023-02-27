@@ -2,8 +2,7 @@ import { styled } from '../../styles'
 
 export const TextInputContainer = styled('div', {
   display: 'flex',
-  alignItems: 'baseline',
-  padding: '$3 $4',
+  alignItems: 'center',
   border: '1px solid $gray900',
   borderRadius: '$sm',
   backgroundColor: '$gray900',
@@ -15,6 +14,21 @@ export const TextInputContainer = styled('div', {
   '&:has(input:disabled)': {
     opacity: 0.5,
     cursor: 'not-allowed',
+  },
+
+  variants: {
+    size: {
+      sm: {
+        padding: '$2 $3',
+      },
+      md: {
+        padding: '$3 $4',
+      },
+    },
+  },
+
+  defaultVariants: {
+    size: 'md',
   },
 })
 
