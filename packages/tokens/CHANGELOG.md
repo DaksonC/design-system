@@ -1,5 +1,11 @@
 # @zica-ui/tokens
 
+## 1.1.4
+
+### Patch Changes
+
+- Instala versão atualizada do turbo
+
 ## 1.1.3
 
 ### Patch Changes
