@@ -1,5 +1,11 @@
 # @zica-ui/tokens
 
+## 1.1.2
+
+### Patch Changes
+
+- correção de bug no release
+
 ## 1.1.1
 
 ### Patch Changes
