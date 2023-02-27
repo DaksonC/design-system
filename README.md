@@ -43,4 +43,25 @@ Glossário
 
 exemplo: as fontes, o tamanho das fontes, as cores...
 ```
+# Após a criação de um novo componente ou alguma alteração
 
+O Changeset gerencia todos os builds
+```js
+npm run changeset
+```
+
+Comamndo para atualizar as versões do packages
+```js
+npm run version-packages
+```
+## Por fim basta subir para o Gihub
+
+```js
+git add .
+```
+```js
+git commit -m '<seu commit>'
+```
+```js
+git push
+```
