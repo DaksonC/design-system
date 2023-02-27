@@ -1,5 +1,11 @@
 # @zica-ui/tokens
 
+## 1.1.3
+
+### Patch Changes
+
+- Resolve bug no Release e acrescenta mais um tamanho de font
+
 ## 1.1.2
 
 ### Patch Changes
