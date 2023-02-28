@@ -1,5 +1,11 @@
 # @zica-ui/tokens
 
+## 1.1.5
+
+### Patch Changes
+
+- Refatora o workflows para resolver bug no release
+
 ## 1.1.4
 
 ### Patch Changes
