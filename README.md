@@ -58,7 +58,7 @@ git commit -m '<seu commit>'
 ```js
 git push
 ```
-Com esse comando as alterações serão publicadas no NPM e atualizadas no StoryBook.
+Com esses comandos as alterações serão publicadas no NPM e atualizadas no StoryBook.
 
 ```
 _Glossário
