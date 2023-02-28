@@ -43,7 +43,7 @@ O Changeset gerencia todos os builds
 npm run changeset
 ```
 
-Comamndo para atualizar as versões do packages
+Comando para atualizar as versões do packages
 ```js
 npm run version-packages
 ```
