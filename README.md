@@ -1,3 +1,8 @@
+# Documentação
+[Storybook](https://daksonc.github.io/design-system/)
+
+[NPM](https://www.npmjs.com/package/@zica-ui/react)
+
 # Fluxo de criação de componentes
 
 - clona o projeto
