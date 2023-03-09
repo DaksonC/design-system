@@ -1,0 +1,2 @@
+import{c as t}from"./index-57c9ae3d.js";import"./iframe-5e6edd79.js";import"./es.map.constructor-fcbc9696.js";import"./es.number.to-fixed-eac9998c.js";import"./index-0d045abe.js";const o=t({base:"dark",brandTitle:"Zica UI",brandUrl:"https://github.com/DaksonC/design-system.git"}),i={actions:{argTypesRegex:"^on[A-Z].*"},controls:{matchers:{color:/(background|color)$/i,date:/Date$/}},docs:{theme:o}};export{i as parameters};
+//# sourceMappingURL=preview-3d0eacf4.js.map

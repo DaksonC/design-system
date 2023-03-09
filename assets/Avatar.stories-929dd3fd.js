@@ -1,0 +1,2 @@
+import{A as t}from"./index-e870c8bd.js";import"./index-0d045abe.js";import"./iframe-5e6edd79.js";import"./index-e76a710a.js";import"./jsx-runtime-5e9d8496.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/DaksonC.png",alt:"Dakson Cruz"},argTypes:{src:{control:{type:"text"}}}},c={},m={args:{src:void 0}},n=["Primary","WithFallback"];export{c as Primary,m as WithFallback,n as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-929dd3fd.js.map
